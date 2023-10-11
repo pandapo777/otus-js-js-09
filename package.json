@@ -1,0 +1,23 @@
+{
+  "name": "otus-js-js-09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "coverage":"jest --coverage",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandapo777/otus-js-js-09.git"
+  },
+  "author": "Alena Ligay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandapo777/otus-js-js-09/issues"
+  },
+  "homepage": "https://github.com/pandapo777/otus-js-js-09#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
