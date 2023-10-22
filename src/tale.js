@@ -23,8 +23,18 @@ kolobok('цпекпц')
 
 // function newYear (nameWinter) {
   const newYear = nameWinter => {
-console.log(`${nameWinter}! ${nameWinter}! ${nameWinter}!`)
+// console.log(`${nameWinter}! ${nameWinter}! ${nameWinter}!`)
+return `${nameWinter}! ${nameWinter}! ${nameWinter}!`
 }
 
-newYear('Дед Мороз')
-newYear('Снегурочка')
+console.log (newYear('Дед Мороз') )
+console.log (newYear('Снегурочка') )
+console.log (newYear('Алёна') )
+// newYear('Снегурочка')
+
+// const newYear = nameWinter => {
+//   return `${nameWinter}! ${nameWinter}! ${nameWinter}!`
+//   }
+
+// const character = newYear('Ak`yf')
+// console.log(character) //  'Алёна! Алёна! Алёна!'
